@@ -1,0 +1,28 @@
+name: white
+favicon: null
+layout_spectrum: 0.4827151750214398
+typography_spectrum: 0.6197012441698462
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7288889319170266
+  lightness: 0.030571895884349942
+  saturation: 0.6874137960840017
+  rhythmicContrast: 0.02307792636565864
+purpose: []
