@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: bright 3D renders
-datePublished: '2016-01-24T22:02:34.005Z'
-dateModified: '2016-01-24T22:02:11.476Z'
+datePublished: '2016-02-03T08:45:42.731Z'
+dateModified: '2016-02-03T08:45:33.738Z'
 title: simply white
 author: []
 authors: []
